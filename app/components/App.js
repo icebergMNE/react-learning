@@ -1,7 +1,6 @@
 import React from 'react'
 import Popular from './Popular'
 
-
 // component is concerned for these 3
 //state
 // lifecycle event shown to screen, removed from screen
